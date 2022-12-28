@@ -25,7 +25,7 @@ namespace palindrome
             } 
             if(temp == 10)
             {
-                return true;
+                return false;
             }
             while (n > 0)
             {
